@@ -1,4 +1,3 @@
-#! /usr/bin/env python3
 
 # AASD 4005 Adv. Mathematical Concepts for Machine Learning
 # George Brown College
